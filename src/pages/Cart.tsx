@@ -482,7 +482,7 @@ const ShoppingCartApp: React.FC = () => {
   };
 
   const handleClearCart = () => {
-    const confirmed = confirm('Are you sure you want to clear your cart?');
+    const confirmed = window.confirm('Are you sure you want to clear your cart?');
     if (confirmed) {
       dispatch({ type: 'CLEAR_CART' });
     }
