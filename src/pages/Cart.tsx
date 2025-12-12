@@ -1,8 +1,8 @@
 import React, { useState, useReducer, createContext, useContext } from 'react';
 import { 
   ShoppingCart, Plus, Minus, Trash2, Search, TrendingUp, 
-  History, Download, Share2, X, Menu, Package, Home,
-  Receipt, BarChart3, Tag, Filter, ChevronRight
+  History, X, Menu, Package,
+  Receipt, Tag, Filter, ChevronRight
 } from 'lucide-react';
 
 // ============================================================================
