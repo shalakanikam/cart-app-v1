@@ -119,7 +119,7 @@ const cartReducer = (state: CartState, action: CartAction): CartState => {
 const PRODUCTS: Product[] = [
   { 
     id: 'bread', 
-    name: 'Artisan Bread', 
+    name: 'Bread', 
     price: 1.10, 
     category: 'Bakery', 
     icon: '🍞',
@@ -127,7 +127,7 @@ const PRODUCTS: Product[] = [
   },
   { 
     id: 'milk', 
-    name: 'Organic Milk', 
+    name: 'Milk', 
     price: 0.50, 
     category: 'Dairy', 
     icon: '🥛',
@@ -135,7 +135,7 @@ const PRODUCTS: Product[] = [
   },
   { 
     id: 'cheese', 
-    name: 'Cheddar Cheese', 
+    name: 'Cheese', 
     price: 0.90, 
     category: 'Dairy', 
     icon: '🧀',
@@ -143,7 +143,7 @@ const PRODUCTS: Product[] = [
   },
   { 
     id: 'soup', 
-    name: 'Tomato Soup', 
+    name: 'Soup', 
     price: 0.60, 
     category: 'Canned', 
     icon: '🥫',
@@ -151,7 +151,7 @@ const PRODUCTS: Product[] = [
   },
   { 
     id: 'butter', 
-    name: 'Premium Butter', 
+    name: 'Butter', 
     price: 1.20, 
     category: 'Dairy', 
     icon: '🧈',
