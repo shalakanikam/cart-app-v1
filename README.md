@@ -2,7 +2,6 @@
 
 A modern, feature-rich shopping cart application built with React, TypeScript, and Tailwind CSS. Experience seamless shopping with real-time calculations, special offers, and an intuitive user interface.
 
-![Shopping Cart Banner](https://via.placeholder.com/1200x300/4F46E5/FFFFFF?text=Smart+Shopping+Cart)
 
 ## ✨ Features
 
