@@ -1,3 +1,4 @@
+// Special Offer Calculator
 import { CartItem } from '../types';
 import { SPECIAL_OFFERS } from '../data/specialOffers';
 
