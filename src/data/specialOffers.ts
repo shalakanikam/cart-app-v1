@@ -14,7 +14,7 @@ export const SPECIAL_OFFERS: SpecialOffer[] = [
   {
     productId: 'soup',
     description: 'Buy Soup, Get Half Price Bread!',
-    calculate: (quantity: number) => quantity * 0.55,
+    calculate: (quantity: number) => quantity*0,
   },
   {
     productId: 'butter',
